@@ -30,7 +30,7 @@ sites:
   - name: POP_#1
     check: "tcp-ping"
     url: 43.247.27.58
-    port: 996
+    port: 995
   - name: POP_#2
     check: "tcp-ping"
     url: 202.175.34.58
@@ -40,7 +40,7 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
+  baseUrl: /sa-m
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
