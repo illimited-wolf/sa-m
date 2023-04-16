@@ -113,19 +113,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "pop-1",
     "status": "up",
-    "uptime": "2.89%",
-    "uptimeDay": "2.89%",
-    "uptimeWeek": "2.89%",
-    "uptimeMonth": "2.89%",
-    "uptimeYear": "2.89%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 209,
     "timeDay": 209,
     "timeWeek": 209,
     "timeMonth": 209,
     "timeYear": 209,
-    "dailyMinutesDown": {
-      "2023-04-16": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "POP_#2",
